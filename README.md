@@ -37,6 +37,11 @@
   <a href="https://laravel.com/img/logomark.min.svg" target="_blank" rel="noreferrer">
     <img src="https://laravel.com/img/logomark.min.svg" alt="bootstrap" width="40" height="40"/>
   </a>
+
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="spring boot" width="40" height="40"/>
+</a>
+
   
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
